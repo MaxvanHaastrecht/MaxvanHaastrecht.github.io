@@ -2,7 +2,7 @@
 title: "Respite for SMEs: A Systematic Review of Socio-Technical Cybersecurity Metrics"
 collection: publications
 permalink: /publication/respite-2021
-excerpt: 'A systematic review of socio-technical cybersecurity metrics.'
+excerpt: 'How can we offer SMEs some much needed respite with their cybersecurity?'
 date: 2021-07-27
 venue: 'Applied Sciences'
 paperurl: 'https://doi.org/10.3390/app11156909'
