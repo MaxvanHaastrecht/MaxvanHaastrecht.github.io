@@ -1,0 +1,13 @@
+---
+title: "A Threat-Based Cybersecurity Risk Assessment Approach Addressing SME Needs"
+collection: publications
+permalink: /publication/threat-based-2021
+excerpt: 'A threat-based cybersecurity risk assessment approach addressing SME needs.'
+date: 2021-08-17
+venue: 'ARES 2021: The 16th International Conference on Availability, Reliability and Security'
+paperurl: 'https://doi.org/10.1145/3465481.3469199'
+citation: 'van Haastrecht, M., Sarhan, I., Shojaifar, A., Baumgartner, L., Mallouli, W., & Spruit, M. (2021). &quot;A Threat-Based Cybersecurity Risk Assessment Approach Addressing SME Needs.&quot; <i>ARES 2021: The 16th International Conference on Availability, Reliability and Security</i>, 158, 1--12.'
+---
+A [paper](https://doi.org/10.3390/app11156909) resulting from an international collaboration within the GEIGER project. We focus on a practical threat-based approach to motivate SMEs. Includes some very insightful screenshots from the GEIGER application!
+  
+Recommended citation: van Haastrecht, M., Sarhan, I., Shojaifar, A., Baumgartner, L., Mallouli, W., & Spruit, M. (2021). "A Threat-Based Cybersecurity Risk Assessment Approach Addressing SME Needs." <i>ARES 2021: The 16th International Conference on Availability, Reliability and Security</i>, 158, 1--12.
