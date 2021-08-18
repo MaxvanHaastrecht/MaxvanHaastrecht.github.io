@@ -12,15 +12,15 @@ Read about my publications, teaching, talks, and more. For more information on m
 
 My work is what I do, but it doesn't always reflect who I am. Michel de Montaigne once said: *I quote others only in order the better to express myself.* So, to give you some sense of what I find interesting and important, here are some quotes by others that express who I am:
   
-***Humility is not thinking less of yourself, but thinking of yourself less.*** - *C.S. Lewis*
+*Humility is not thinking less of yourself, but thinking of yourself less.* - C.S. Lewis
   
-***Opportunities multiply as they are seized.*** - *Sun Tzu*
+*Life is like riding a bicycle. To keep your balance, you must keep moving.* - Albert Einstein
 
-***For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.*** - *Richard Feynman*
+*For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.* - Richard Feynman
   
-***A mind is like a parachute, it does not work if it is not open.*** - *Frank Zappa*
+*A mind is like a parachute, it does not work if it is not open.* - Frank Zappa
   
-***Do not judge each day by the harvest you reap, but by the seeds that you plant.*** - *Robert Louis Stevenson*
+*Do not judge each day by the harvest you reap, but by the seeds that you plant.* - Robert Louis Stevenson
 
 And, last but not least, not a quote but a video. A commencement address by Steve Jobs at Stanford, the most inspiring speech I have ever seen.
 
