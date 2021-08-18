@@ -2,7 +2,7 @@
 title: "SYMBALS: A Systematic Review Methodology Blending Active Learning and Snowballing"
 collection: publications
 permalink: /publication/symbals-2021
-excerpt: 'A systematic review methodology blending active learning and backward snowballing.'
+excerpt: 'A swift and accessible methodology for systematic reviews.'
 date: 2021-05-28
 venue: 'Frontiers in Research Metrics and Analytics'
 paperurl: 'https://doi.org/10.3389/frma.2021.685591'
