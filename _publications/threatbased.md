@@ -2,7 +2,7 @@
 title: "A Threat-Based Cybersecurity Risk Assessment Approach Addressing SME Needs"
 collection: publications
 permalink: /publication/threat-based-2021
-excerpt: 'A threat-based cybersecurity risk assessment approach addressing SME needs.'
+excerpt: 'An intuitive and simple approach, as illustrated by an attractive user interface.'
 date: 2021-08-17
 venue: 'ARES 2021: The 16th International Conference on Availability, Reliability and Security'
 paperurl: 'https://doi.org/10.1145/3465481.3469199'
