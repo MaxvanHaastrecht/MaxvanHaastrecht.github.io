@@ -15,8 +15,6 @@ My work is what I do, but it doesn't always reflect who I am. Michel de Montaign
 *Humility is not thinking less of yourself, but thinking of yourself less.* - C.S. Lewis
   
 *Life is like riding a bicycle. To keep your balance, you must keep moving.* - Albert Einstein
-
-*For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.* - Richard Feynman
   
 *A mind is like a parachute, it does not work if it is not open.* - Frank Zappa
   
