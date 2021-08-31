@@ -20,6 +20,6 @@ My work is what I do, but it doesn't always reflect who I am. Michel de Montaign
   
 *Do not judge each day by the harvest you reap, but by the seeds that you plant.* - Robert Louis Stevenson
 
-And, last but not least, not a quote but a video. A commencement address by Steve Jobs at Stanford, the most inspiring speech I have ever seen.
+Lastly, not a quote but a video. A commencement address by Steve Jobs at Stanford. The most inspiring speech I have ever seen.
 
 [![Steve Jobs Stanford Commencement Address](http://img.youtube.com/vi/UF8uR6Z6KLc/0.jpg)](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
