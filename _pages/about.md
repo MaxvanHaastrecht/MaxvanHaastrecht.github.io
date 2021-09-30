@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Read about my publications, teaching, talks, and more. For more information on my research, see my [Utrecht University](https://www.uu.nl/medewerkers/MANHaastrecht) page and the website of the [GEIGER project](https://project.cyber-geiger.eu/).
+Read about my publications, teaching, talks, and more. For more information on my research, see my [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/max-van-haastrecht) page and the website of the [GEIGER project](https://project.cyber-geiger.eu/).
 
 My work is what I do, but it doesn't always reflect who I am. Michel de Montaigne once said: *I quote others only in order the better to express myself.* So, to give you some sense of what I find interesting and important, here are some quotes by others that express who I am:
   
