@@ -2,7 +2,7 @@
 title: "A Shared Cyber Threat Intelligence Solution for SMEs"
 collection: publications
 permalink: /publication/cti-2021
-excerpt: 'A problem shared is a problem halved. Yet, shared CTI is rarely used in solutions to address SME needs. Let's change that!'
+excerpt: 'A problem shared is a problem halved. Yet, shared CTI is rarely used in solutions to address SME needs.'
 date: 2021-11-24
 venue: 'Electronics'
 paperurl: 'https://doi.org/10.3390/electronics10232913'
