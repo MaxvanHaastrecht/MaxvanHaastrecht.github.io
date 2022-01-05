@@ -12,11 +12,13 @@ Read about my publications, teaching, talks, and more. For more information on m
 
 My work is what I do, but it doesn't always reflect who I am. Michel de Montaigne once said: *I quote others only in order the better to express myself.* So, to give you some sense of what I find interesting and important, here are some quotes by others that express who I am:
   
+*Computers are useless. They can only give you answers.* - Pablo Picasso
+
+*Science may set limits to knowledge, but should not set limits to imagination.* - Bertrand Russell
+
 *Humility is not thinking less of yourself, but thinking of yourself less.* - C.S. Lewis
   
 *Life is like riding a bicycle. To keep your balance, you must keep moving.* - Albert Einstein
-  
-*A mind is like a parachute, it does not work if it is not open.* - Frank Zappa
   
 *Do not judge each day by the harvest you reap, but by the seeds that you plant.* - Robert Louis Stevenson
 
