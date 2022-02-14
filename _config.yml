@@ -82,13 +82,13 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "PhD candidate in cybersecurity at Leiden University; trying to keep money out of the hands of cyber criminals."
+  bio              : "PhD candidate @ Leiden University. Hockey player 🏑, (slowly) getting better at chess ♞, statistics > ML."
   location         : "Utrecht, NL"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=nl&user=UPWQOywAAAAJ"
   email            : "m.a.n.van.haastrecht@liacs.leidenuniv.nl"
-  researchgate     : "https://www.researchgate.net/profile/Max_Van_Haastrecht"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/maxvanhaastrecht/"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-4195-0585"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/MaxvHaastrecht"
   vine             :
   weibo            :
   xing             :
