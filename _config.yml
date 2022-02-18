@@ -82,13 +82,13 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "PhD candidate @ Leiden University. Hockey player 🏑, slowly getting better at chess ♞, statistics 👊 ML."
-  location         : "Utrecht, NL"
+  bio              : "PhD candidate at Leiden University. Hockey player 🏑, slowly getting better at chess ♞, statistics 👊 ML."
+  location         :
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=nl&user=UPWQOywAAAAJ"
   email            : "m.a.n.van.haastrecht@liacs.leidenuniv.nl"
-  researchgate     :
+  researchgate     : "https://www.researchgate.net/profile/Max-Van-Haastrecht-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/MaxvanHaastrecht"
   google_plus      :
   keybase          :
   instagram        :
