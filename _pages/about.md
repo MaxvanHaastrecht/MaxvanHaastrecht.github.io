@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-<p>Read about my publications, teaching, talks, and more. For more information on my research, see my [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/max-van-haastrecht) page and the website of the [GEIGER project](https://project.cyber-geiger.eu/).</p>
+<p>Read about my publications, teaching, talks, and more. For more information on my research, see my <a href="https://www.universiteitleiden.nl/en/staffmembers/max-van-haastrecht">Leiden University</a> page and the website of the <a href="https://project.cyber-geiger.eu/">GEIGER project</a>.</p>
 
 <p>My work is what I do, but it doesn't always reflect who I am. Michel de Montaigne once said: <em>I quote others only in order the better to express myself.</em> So, to give you some sense of what I find interesting and important, here are some quotes by others that express who I am:</p>
 
@@ -22,7 +22,7 @@ redirect_from:
   
 <p><em>Do not judge each day by the harvest you reap, but by the seeds that you plant.</em> - Robert Louis Stevenson</p>
 
-<p>Lastly, not a quote but a video. A commencement address by Steve Jobs at Stanford. The most inspiring speech I have ever seen.</p>
+<p>Lastly, not a quote but a video. A commencement address by Steve Jobs at Stanford. The most inspiring speech I have ever seen. Watch the full 15 minutes, you won't regret it.</p>
 </div>
 
 [![Steve Jobs Stanford Commencement Address](http://img.youtube.com/vi/UF8uR6Z6KLc/0.jpg)](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
