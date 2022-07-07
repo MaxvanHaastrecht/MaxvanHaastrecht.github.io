@@ -26,7 +26,3 @@ redirect_from:
 </div>
 
 [![Steve Jobs Stanford Commencement Address](http://img.youtube.com/vi/UF8uR6Z6KLc/0.jpg)](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
-
-<p>Visits</p>
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8011579&style=0038&nbdigits=7&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>
