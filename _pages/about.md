@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-<p>Read about my publications, teaching, talks, and more. For more information on my research, see my <a href="https://www.universiteitleiden.nl/en/staffmembers/max-van-haastrecht">Leiden University</a> page and the website of the <a href="https://project.cyber-geiger.eu/">GEIGER project</a>.</p>
+<p>Read about my publications, teaching, talks, and more. For more information on my research, see my <a href="https://www.universiteitleiden.nl/en/staffmembers/max-van-haastrecht">Leiden University</a> page and the website of the <a href="https://project.cyber-geiger.eu/">GEIGER project</a>. If you want to know more about my work as a PhD representative, check out the <a href="https://www.organisatiegids.universiteitleiden.nl/en/staff-and-student-participation/university-council/staff-parties/phdoc">GEIGER project</a> page.</p>
 
-<p>My work is what I do, but it doesn't always reflect who I am. Michel de Montaigne once said: <em>I quote others only in order the better to express myself.</em> So, to give you some sense of what I find interesting and important, here are some quotes by others that express who I am:</p>
+<p>Michel de Montaigne once said: <em>I quote others only in order the better to express myself.</em> So, to give you some sense of what I find interesting and important, here are some quotes by others that express who I am:</p>
 
 <p><em>The things you regret most in life are the things you didn't do.</em> - Steve Jobs</p>
 
