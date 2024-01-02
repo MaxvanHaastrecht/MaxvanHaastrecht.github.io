@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Without trust, an algorithm is nothing more than a digital Paul the Octopus"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from:
