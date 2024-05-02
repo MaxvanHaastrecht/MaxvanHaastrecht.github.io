@@ -20,6 +20,6 @@ redirect_from:
 
 <p><em>The things you regret most in life are the things you didn't do.</em> - Steve Jobs</p>
 
-<p><em>Humility is not thinking less of yourself, but thinking of yourself less.</em> - C.S. Lewis</p>
+<p><em>True humility is not thinking less of yourself, it is thinking of yourself less.</em> - C.S. Lewis</p>
   
 <p><em>Do not judge each day by the harvest you reap, but by the seeds that you plant.</em> - R.L. Stevenson</p>
